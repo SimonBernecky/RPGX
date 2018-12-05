@@ -106,10 +106,14 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 492}
+  m_MinSize: {x: 883, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 39
+=======
+  controlID: 56
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +134,14 @@ MonoBehaviour:
     y: 0
     width: 1643
     height: 947
-  m_MinSize: {x: 406, y: 492}
+  m_MinSize: {x: 606, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 40
+=======
+  controlID: 87
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,10 +162,14 @@ MonoBehaviour:
     y: 0
     width: 1643
     height: 676
-  m_MinSize: {x: 406, y: 221}
-  m_MaxSize: {x: 8006, y: 4021}
+  m_MinSize: {x: 606, y: 221}
+  m_MaxSize: {x: 6054, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 41
+=======
+  controlID: 11
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,14 +213,14 @@ MonoBehaviour:
     y: 0
     width: 1372
     height: 676
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_MinSize: {x: 404, y: 121}
+  m_MaxSize: {x: 2052, y: 2069}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 14}
   - {fileID: 12}
   - {fileID: 15}
-  m_Selected: 0
+  m_Selected: 2
   m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
@@ -319,8 +331,13 @@ MonoBehaviour:
       y: 17
       width: 1437
       height: 638
+<<<<<<< HEAD
     m_Scale: {x: 1.5449997, y: 1.5449998}
     m_Translation: {x: 706.1249, y: 323.79993}
+=======
+    m_Scale: {x: 1.5449998, y: 1.545}
+    m_Translation: {x: 706.12494, y: 323.79993}
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -328,9 +345,15 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -457.03885
+<<<<<<< HEAD
       y: -209.57927
       width: 930.0972
       height: 412.94504
+=======
+      y: -209.57924
+      width: 930.09717
+      height: 412.945
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
@@ -367,9 +390,15 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 96fbffff00000000
+=======
+    m_SelectedIDs: b63d0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 58aaffffd8cfffff2ef9ffff00000000
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -458,9 +487,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.14056475, y: 0.54724157, z: -0.09383709, w: -0.8197335}
   m_Size:
+<<<<<<< HEAD
     m_Target: 1.9970336
     speed: 2
     m_Value: 1.9970336
+=======
+    m_Target: 18.221552
+    speed: 2
+    m_Value: 18.221552
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -492,10 +527,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 367
-    y: 100
-    width: 857
-    height: 430
+    x: 204
+    y: 92
+    width: 1437
+    height: 655
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 MonoBehaviour:
@@ -534,20 +569,27 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Imports/PolygonAdventure/Prefabs/Characters
+    - Assets/Imports
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Imports/PolygonAdventure/Prefabs/Characters
+  - Assets/Imports
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Jeno Ice\Documents\GitHub\RPGX\RPG-X
+  m_LastProjectPath: E:\New\SDC\RPG\RPGX\RPG-X
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 59}
     m_SelectedIDs: 26390000
     m_LastClickedID: 14630
     m_ExpandedIDs: 0000000022300000a4340000e43400006c35000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 111}
+    m_SelectedIDs: 0a370000
+    m_LastClickedID: 14090
+    m_ExpandedIDs: 0000000046320000ca3600000a3700009237000000ca9a3b
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -575,7 +617,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000022300000a4340000e43400006c350000
+=======
+    m_ExpandedIDs: 0000000046320000ca3600000a37000092370000
+>>>>>>> 56b46bb68e46f5857c65fcf54d209168b31c05c9
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
